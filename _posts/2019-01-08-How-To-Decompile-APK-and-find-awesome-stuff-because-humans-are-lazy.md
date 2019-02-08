@@ -10,9 +10,11 @@ This is a story of a man that found several impactful still stupid flaws in andr
 I started out, but had no idea what I was getting myself into, I wasnt really familiar with decompiling android applications,
 but after a good read this seemd not to difficult. So i found myself in a jungle of Jar's and dexes. 
 
-But I wanted more. I wrote an small script for myself that enabled me to download and decompile the APK's on the fly and searched for the keywords i was looking for..
+But I wanted more and I want it faster. I wrote an small script for myself that enabled me to download and decompile the APK's on the fly and automatically searched for the keywords i was looking for..
 
 ![](https://github.com/Hackdwerg/hackdwerg.github.io/blob/master/assets/lol.jpg?raw=true)
+
+
 
 
 
