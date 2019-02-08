@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Im Raphael - Hackdwerg, a security researcher from Holland, besides my home grown hobby I also (ethical) hack for a profession.
+Im Raphael - Hackdwerg, a security researcher from Holland, besides my home grown hobby I also (ethically) hack for a profession.
 My main focus is on Web-application but I also love the art of social engineering and finding logic-flaws in applications.
 
 Certified:
