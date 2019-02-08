@@ -12,6 +12,7 @@ but after a good read this seemd not to difficult. So i found myself in a jungle
 
 But I wanted more. I wrote an small script for myself that enabled me to download and decompile the APK's on the fly and searched for the keywords i was looking for..
 
+![](https://github.com/Hackdwerg/hackdwerg.github.io/blob/master/assets/lol.jpg?raw=true)
 
 
 
