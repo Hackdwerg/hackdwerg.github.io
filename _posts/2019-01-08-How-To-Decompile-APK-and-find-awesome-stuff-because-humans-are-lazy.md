@@ -7,7 +7,7 @@ So I stumbled upon a pretty interesting app which became a great lesson and a pa
 
 In a galaxy far far away.... 
 
-I previously wrote an application that eased the process of doing this while automating searching for patterns in the application. So after while I collected tons of information.
+I previously wrote an application that eased the process of doing this while automating searching for patterns in the application. So after while I collected tons of data.
 
 
 ![](https://github.com/Hackdwerg/hackdwerg.github.io/blob/master/assets/lol.jpg?raw=true)
