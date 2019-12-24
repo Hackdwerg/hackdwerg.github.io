@@ -18,4 +18,4 @@ Certified:
  - Doing some oscp on the side
  
 Some personal stuff because people like that:
-I have an awesome girl that supports me in everything I do which I want to thank.
+....
